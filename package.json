@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/geolocation": "^2.0.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "native-base": "^2.13.13",
     "react": "16.13.1",
     "react-native": "0.63.2",
